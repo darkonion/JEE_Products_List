@@ -1,0 +1,10 @@
+INSERT INTO product (id, details, label, seq) VALUES (1, 'A 10,1', 'Samsung Galaxy Tab', 1);
+INSERT INTO product (id, details, label, seq) VALUES (2, 'A8-50F 16GB', 'Lenovo Tab3', 2);
+INSERT INTO product (id, details, label, seq) VALUES (3, 'M3 8" 32GB', 'Huawei MediaPad', 3);
+INSERT INTO product (id, details, label, seq) VALUES (4, '32GB White', 'Apple IPad', 4);
+INSERT INTO product (id, details, label, seq) VALUES (5, '1026 16GB', 'Overmax Qualcore', 5);
+INSERT INTO product (id, details, label, seq) VALUES (6, '17 GeForce GTX', 'Lenovo Legion y540', 6);
+INSERT INTO product (id, details, label, seq) VALUES (7, '256GB', 'Samsung S8', 7);
+INSERT INTO product (id, details, label, seq) VALUES (8, 'Wireless Optic', 'Logitech M280', 8);
+INSERT INTO product (id, details, label, seq) VALUES (9, '2-channels', 'Audient iD8', 9);
+INSERT INTO product (id, details, label, seq) VALUES (10, '23,8 IPS 60Hz', 'Phillips 243V7Q', 10);
