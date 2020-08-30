@@ -1,7 +1,5 @@
-#E-POINT
-###Recruitment Assessment
 
-JEE version. 
+#JEE Simple product list 
 
 Libraries/Technologies:
 
